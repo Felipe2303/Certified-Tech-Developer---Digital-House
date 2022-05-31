@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@200;400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  background: url("/img/bg-mogi-das-cruzes.jpg");
+  background-position: center;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  font-family: "Bebas Neue", cursive;
+  font-size: 1.2rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: red;
+  letter-spacing: 0.1rem;
+  border-bottom: 2px solid #fff;
+  padding: 20px 0;
+}
+
+.text {
+  width: 1080px;
+  padding: 50px 0;
+  color: #fff;
+  line-height: 1.8rem;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inform {
+  color: #fff;
+  width: 1080px;
+  padding: 50px 0;
+  text-align: left;
+}
+
+.subtitle {
+  padding-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.inform_list {
+  padding-left: 20px;
+  font-size: 1.2rem;
+}
+
+.inform_list li {
+  padding-bottom: 5px;
+}
+
+.social__media {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.social__media h3 {
+  font-weight: 400;
+  font-size: 1.3rem;
+  padding-bottom: 15px;
+  color: #fff;
+}
+
+.social__media a {
+  color: #fff;
+  padding: 0 5px;
+}

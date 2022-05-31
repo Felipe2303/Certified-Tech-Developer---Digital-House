@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: url(fundo.jpg);
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+
+h1  {
+    font-family:Verdana,
+    text-align: center;
+    color: black;
+
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: blanchedalmond;
+    height: center;
+    padding: 10px 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+blockquote {
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+div.imagem {
+	display:inline-flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5%;
+    margin: 0%;
+    float: left;
+    position:sticky;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+
+}
+
+figcaption{
+    color: blanchedalmond;
+}
+
+
+.youtube {
+    display: block;
+    margin: auto;
+    width: 1280px;
+    margin: 2px;
+    padding-top: 0%;
+    text-align: center;
+}
+h2{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    text-align: center;
+
+}
+
+ul.imagem{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    color: blanchedalmond;
+    text-align: center;
+    position:fixed;
+    list-style: none;
+    column-count: 4;
+    column-gap: 20px;
+    
+
+}
+   
+
+}
+
+
+#icon {
+    text-align: center;
+    margin-top: auto;
+    border: beige;
+}
+
+.Curiosidades{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 12pt;
+}

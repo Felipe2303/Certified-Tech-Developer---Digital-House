@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(145, 145, 197);
+
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    color: darkcyan;
+}
+
+.divnome:hover {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+
+.divtel:focus{
+    width: 100px;
+    height: 100px;
+    color: rgb(58, 139, 0); 
+
+}

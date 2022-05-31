@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 2000px;
+    background-color: rgb(115, 115, 138);
+}
+
+header{
+    position: sticky;
+    width: 500px;
+    top: 0;
+}
+.menu {
+position: sticky;
+width: 50px;
+padding: 20px;
+display: block;
+
+}
+ul{
+    display: flex: ;
+    list-style: none;
+}
