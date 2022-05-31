@@ -1,0 +1,17 @@
+[
+    { idade: 15, opiniao: 2 },
+    { idade: 17, opiniao: 2 },
+    { idade: 30, opiniao: 1 },
+    { idade: 25, opiniao: 2 },
+    { idade: 45, opiniao: 1 },
+    { idade: 60, opiniao: 1 },
+    { idade: 17, opiniao: 3 },
+    { idade: 18, opiniao: 3 },
+    { idade: 29, opiniao: 2 },
+    { idade: 32, opiniao: 2 },
+    { idade: 35, opiniao: 1 },
+    { idade: 41, opiniao: 1 },
+    { idade: 62, opiniao: 2 },
+    { idade: 20, opiniao: 3 },
+    { idade: 21, opiniao: 3 }
+]
